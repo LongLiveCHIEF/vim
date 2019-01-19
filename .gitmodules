@@ -1,3 +1,9 @@
 [submodule "/home/chief/.vim/bundle/colorschemes"]
 	path = /home/chief/.vim/bundle/colorschemes
 	url = git@github.com:flazz/vim-colorschemes.git
+[submodule "/home/chief/.vim/bundle/javascript"]
+	path = /home/chief/.vim/bundle/javascript
+	url = git@github.com:pangloss/vim-javascript.git
+[submodule "/home/chief/.vim/bundle/jsx"]
+	path = /home/chief/.vim/bundle/jsx
+	url = git@github.com:mxw/vim-jsx.git

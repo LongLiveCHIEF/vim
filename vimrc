@@ -30,13 +30,17 @@ set incsearch
 
 nnoremap <leader><space> :nohlsearch<CR>
 
+" plugin manager
 execute pathogen#infect()
 
 if &t_Co > 2 || has("gui_running")
 	" switch syntax highlighting on, when the terminal has colors
  	syntax on
-	colorscheme molokai
+	colorscheme badwolf
 endif
+
+" plugin settings
+let g:jsx_ext_required=0
 
 " for powerline
 set laststatus=2
@@ -44,4 +48,3 @@ set showtabline=2
 
 " file explorer
 map <leader>k :E<cr>
-
