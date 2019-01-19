@@ -7,3 +7,6 @@
 [submodule "/home/chief/.vim/bundle/jsx"]
 	path = /home/chief/.vim/bundle/jsx
 	url = git@github.com:mxw/vim-jsx.git
+[submodule "/home/chief/.vim/bundle/editorconfig"]
+	path = /home/chief/.vim/bundle/editorconfig
+	url = git@github.com:editorconfig/editorconfig-vim.git
