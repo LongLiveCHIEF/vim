@@ -10,3 +10,6 @@
 [submodule "/home/chief/.vim/bundle/editorconfig"]
 	path = /home/chief/.vim/bundle/editorconfig
 	url = git@github.com:editorconfig/editorconfig-vim.git
+[submodule "/home/chief/.vim/bundle/Dockerfile"]
+	path = /home/chief/.vim/bundle/Dockerfile
+	url = git@github.com:ekalinin/Dockerfile.vim.git
