@@ -30,6 +30,8 @@ set incsearch
 
 nnoremap <leader><space> :nohlsearch<CR>
 
+execute pathogen#infect()
+
 if &t_Co > 2 || has("gui_running")
 	" switch syntax highlighting on, when the terminal has colors
  	syntax on
@@ -43,4 +45,3 @@ set showtabline=2
 " file explorer
 map <leader>k :E<cr>
 
-execute pathogen#infect()
