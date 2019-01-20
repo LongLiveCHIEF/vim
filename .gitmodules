@@ -16,3 +16,6 @@
 [submodule "/home/chief/.vim/bundle/docker-tools"]
 	path = /home/chief/.vim/bundle/docker-tools
 	url = git@github.com:kkvh/vim-docker-tools.git
+[submodule "/home/chief/.vim/bundle/graphql"]
+	path = /home/chief/.vim/bundle/graphql
+	url = git@github.com:jparise/vim-graphql.git
