@@ -13,3 +13,6 @@
 [submodule "/home/chief/.vim/bundle/Dockerfile"]
 	path = /home/chief/.vim/bundle/Dockerfile
 	url = git@github.com:ekalinin/Dockerfile.vim.git
+[submodule "/home/chief/.vim/bundle/docker-tools"]
+	path = /home/chief/.vim/bundle/docker-tools
+	url = git@github.com:kkvh/vim-docker-tools.git
