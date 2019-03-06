@@ -19,3 +19,6 @@
 [submodule "/home/chief/.vim/bundle/graphql"]
 	path = /home/chief/.vim/bundle/graphql
 	url = git@github.com:jparise/vim-graphql.git
+[submodule "bundle/typescript"]
+	path = bundle/typescript
+	url = git@github.com:leafgarland/typescript-vim.git
