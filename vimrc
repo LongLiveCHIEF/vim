@@ -40,7 +40,8 @@ if &t_Co > 2 || has("gui_running")
 endif
 
 " plugin settings
-let g:jsx_ext_required=0
+let g:jsx_ext_required=0 " react and jsx
+au BufReadPost *.prisma set syntax=graphql
 
 " for powerline
 set laststatus=2
