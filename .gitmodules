@@ -25,3 +25,6 @@
 [submodule "bundle/discord"]
 	path = bundle/discord
 	url = git@github.com:anned20/vimsence.git
+[submodule "bundle/surround"]
+	path = bundle/surround
+	url = git@github.com:tpope/vim-surround.git
