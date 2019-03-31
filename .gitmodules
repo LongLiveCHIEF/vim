@@ -22,3 +22,6 @@
 [submodule "bundle/typescript"]
 	path = bundle/typescript
 	url = git@github.com:leafgarland/typescript-vim.git
+[submodule "bundle/discord"]
+	path = bundle/discord
+	url = git@github.com:anned20/vimsence.git
